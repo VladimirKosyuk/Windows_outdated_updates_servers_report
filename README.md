@@ -1,6 +1,6 @@
 # Windows_outdated_updates_servers_report
 
-Should be usefull th know if WSUS administator do not update all production servers during 3 month period:
+Should be usefull th know if WSUS administator not updates all production servers during 3 month period:
 
 •	Forms a list of those servers whose objects are turned on, accessed DC no more than 14 days ago, whose OU contains servers and not contains test;
 
