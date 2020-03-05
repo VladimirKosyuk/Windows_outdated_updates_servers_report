@@ -1,0 +1,5 @@
+To = exemaple@contoso.com
+SmtpServer = smtp.contoso.local
+SmtpPort = 25
+SmtpDomain = contoso.com
+Output = \\share\output
