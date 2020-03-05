@@ -14,4 +14,4 @@ Should be usefull th know if WSUS administator not updates all production server
 
 •	If server received updates no older than 3 months - continue to another server;
 
-•	Send an email without authorization with results.
+•	Sends an email without authorization with results.
