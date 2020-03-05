@@ -6,7 +6,8 @@ Should be usefull th know if WSUS administator not updates all production server
 
 •	For each of received servers via WinRM script gets a list of updates;
 
-•	If no values are received for server during 5 minutes - report to log file and continue with another server;
+•	If no values are received during 5 minutes - report to log file and continue with another server;
+
 •	If errors were received during data collection - output to the log file;
 
 •	If server received updates older than 3 months - write the information about the latest update to the csv file;
